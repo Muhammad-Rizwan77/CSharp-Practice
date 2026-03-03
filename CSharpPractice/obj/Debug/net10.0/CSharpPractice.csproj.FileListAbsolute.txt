@@ -1,0 +1,14 @@
+C:\Users\tikti\CSharpPractice\bin\Debug\net10.0\CSharpPractice.exe
+C:\Users\tikti\CSharpPractice\bin\Debug\net10.0\CSharpPractice.deps.json
+C:\Users\tikti\CSharpPractice\bin\Debug\net10.0\CSharpPractice.runtimeconfig.json
+C:\Users\tikti\CSharpPractice\bin\Debug\net10.0\CSharpPractice.dll
+C:\Users\tikti\CSharpPractice\bin\Debug\net10.0\CSharpPractice.pdb
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.AssemblyInfoInputs.cache
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.AssemblyInfo.cs
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.dll
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\refint\CSharpPractice.dll
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.pdb
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\CSharpPractice.genruntimeconfig.cache
+C:\Users\tikti\CSharpPractice\obj\Debug\net10.0\ref\CSharpPractice.dll
